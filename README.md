@@ -31,7 +31,7 @@ apache POI thin wrapper only xls format read/write.
 ```
 など。
 
-各関数の使い方は[API doc](https://github.com/shinmuro/poi-clj)見て何となく察して下さい。
+各関数の使い方は[API doc](https://shinmuro.github.io/poi-clj/doc)見て何となく察して下さい。
 
 ## License
 
