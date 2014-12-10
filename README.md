@@ -20,16 +20,18 @@ apache POI thin wrapper only xls format read/write.
 - 書式設定でフォントは未対応です
 
 ## 使い方
+``project.clj`` の ``:dependencies`` に以下を追加して ``lein deps``
 ```clojure
 [poi-clj "0.x.x"]
 ```
 
+後は使いたい所で
 ```clojure
 (require '[shinmuro.clj-poi.xls :as xl])
 ```
 など。
 
-後は[API doc](https://github.com/shinmuro/poi-clj)見て何となく察して下さい。
+各関数の使い方は[API doc](https://github.com/shinmuro/poi-clj)見て何となく察して下さい。
 
 ## License
 
