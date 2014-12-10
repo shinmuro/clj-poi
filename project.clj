@@ -1,5 +1,5 @@
 (defproject shinmuro/clj-poi "0.2.15"
-  :description "xls format thin wrapper by apache POI."
+  :description "thin wrapper of read/write xls format by apache POI."
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
