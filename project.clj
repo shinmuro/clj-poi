@@ -7,7 +7,6 @@
   :jvm-opts ["-XX:+TieredCompilation" "-XX:TieredStopAtLevel=1" "-Xverify:none"]
 
   :dependencies [[org.clojure/clojure "1.6.0"]
-;                 [clj-util "0.4.0"]
                  [shinmuro/util "0.4.0"]
                  [org.apache.poi/poi "3.11-beta3"]
                  [org.apache.poi/poi-ooxml "3.11-beta3"]
