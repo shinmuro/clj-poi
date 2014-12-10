@@ -1,7 +1,8 @@
-shinmuro.clj-poi.xls
+clj-poi.xls
 ================================================================================
 
 **JAPANESE DOCUMENTATION ONLY**
+
 apache POI thin wrapper only xls format read/write.
 
 自分用 apache POI ラッパー。
@@ -28,7 +29,7 @@ apache POI thin wrapper only xls format read/write.
 ```
 など。
 
-後は[API doc]()見て何となく察して下さい。
+後は[API doc](https://github.com/shinmuro/poi-clj)見て何となく察して下さい。
 
 ## License
 
