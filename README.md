@@ -20,10 +20,15 @@ apache POI thin wrapper only xls format read/write.
 - 書式設定でフォントは未対応です
 
 ## 使い方
-``project.clj`` の ``:dependencies`` に以下を追加して ``lein deps``
+~~``project.clj`` の ``:dependencies`` に以下を追加して ``lein deps``~~
 ```clojure
-[poi-clj "0.x.x"]
+~~[poi-clj "0.x.x"]~~
 ```
+
+Clojars に deploy してませんのでしばしお待ち下さい。
+
+ローカルで構わなければ[shinmuro/util](https://github.com/shinmuro/util)とここのリポジトリ
+をそれぞれ git clone してlein install すれば使用可能です。
 
 後は使いたい所で
 ```clojure
