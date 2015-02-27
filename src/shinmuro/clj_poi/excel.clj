@@ -1,4 +1,4 @@
-(ns clj-poi.xls
+(ns shinmuro.clj-poi.excel
   "Apache POI の Clojure 向け簡易ラッパー。
 
    対応ファイルは xls (Excel 97-2003 フォーマット)のみ。
